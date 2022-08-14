@@ -6,5 +6,5 @@ Fully interactive calculator that has six functions:
 2. Calorie COunt
 3. BMI calculator
 4. Heart rate Max
-5. 
-6.
+5. Step count
+6. Blood pressure
